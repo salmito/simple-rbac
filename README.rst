@@ -192,7 +192,7 @@ handler.
     except PermissionDenied as exception:
         print "The access has been denied, you %s" % exception.kwargs['message']
 
-If you don’t want to raise the exception but only check the access is
+If you dont want to raise the exception but only check the access is
 allowed or not, you could use the checking like a boolean value.
 
 ::
