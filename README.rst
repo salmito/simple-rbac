@@ -65,7 +65,7 @@ Quick Start
 Custom Role and Resource Class
 ------------------------------
 
-It’s not necessary to use string as role object and resource object like
+Its not necessary to use string as role object and resource object like
 "Quick Start". You could define role class and resource class of
 yourself, such as a database mapped model in SQLAlchemy.
 
